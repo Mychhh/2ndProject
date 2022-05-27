@@ -1,0 +1,18 @@
+body 
+{
+    background-color: rgba(118, 91, 176, 0.695);
+}
+
+body img
+{
+    width: 200px;
+    height: 200px;
+}
+
+h1 
+{
+    color: navy;
+    margin-left: 20px;
+}
+
+
